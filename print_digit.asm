@@ -19,5 +19,5 @@ _printRAXDigit:
     mov rdi, 1
     mov rsi, digit
     mov rdx, 2
-    syscall`
+    syscall
     ret
