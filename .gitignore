@@ -1,6 +1,11 @@
 # notes
 *.txt
+*.md
+*.sh
+./*/*.sh
 
 # Object files
-*.o
+./*/*.o
+./*/*.out
+*.out
 *.out
